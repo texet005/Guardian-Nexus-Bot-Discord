@@ -1,7 +1,7 @@
 # 🤖 Guardian Nexus Bot
 
-![GitHub last commit](https://img.shields.io/github/last-commit/texet005/guardian-nexus-bot)
-![GitHub repo size](https://img.shields.io/github/repo-size/texet005/guardian-nexus-bot)
+![GitHub last commit](https://img.shields.io/github/last-commit/texet005/Guardian-Nexus-Bot-Discord)
+![GitHub repo size](https://img.shields.io/github/repo-size/texet005/Guardian-Nexus-Bot-Discord)
 ![Discord.js](https://img.shields.io/badge/discord.js-v14-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
