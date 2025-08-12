@@ -29,8 +29,8 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/texet005/discord_roles_servers.git
-cd discord_roles_servers
+git clone https://github.com/texet005/Guardian-Nexus-Bot-Discord.git
+cd Guardian-Nexus-Bot-Discord
 ```
 2. Установите зависимости:
 ```
