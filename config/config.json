@@ -1,0 +1,13 @@
+{
+  "token": "токен вашего бота",
+  "creatorId": "id создателя",
+  "mainServerId": "id основного сервера",
+  "adminServerId": "id админского сервера",
+  "logChannelId": "id канала для логов",
+  "adminChannelId": "id канала для админ панели",
+  "activity": {
+    "name": "название активности",
+    "type": "Watching"
+  },
+  "rolePairs": {}
+}
