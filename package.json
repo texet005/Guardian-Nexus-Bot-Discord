@@ -1,0 +1,14 @@
+{
+  "name": "discord-role-sync-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for role synchronization and report system",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

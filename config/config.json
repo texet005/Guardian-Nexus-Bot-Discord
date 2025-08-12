@@ -1,0 +1,19 @@
+{
+  "token": "TOKEN BOT",
+  "creatorId": "id создателя",
+  "mainServerId": "id основного сервера",
+  "adminServerId": "id админского сервера",
+  "logChannelId": "id канала для логов",
+  "adminChannelId": "id канал для админ панели",
+  "activity": {
+    "name": "название активности",
+    "type": "Watching",
+    "url": "https://example.com"
+  },
+  "rolePairs": {},
+  "reportSettings": {
+    "categoryId": "id категории где находится канал для панели репортом (для пользователей)",
+    "userReportChannel": "id канала для репорт панели",
+    "adminReportChannel": "id категории для уведомления о репортах"
+  }
+}
